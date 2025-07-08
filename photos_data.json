@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "filename": "test_photo.jpg",
+    "title": "Welcome to Your Photo Gallery!",
+    "description": "This is a test photo. Upload your own photos via the admin panel!",
+    "image_url": "https://via.placeholder.com/800x600/4F46E5/FFFFFF?text=Welcome+to+Your+Gallery",
+    "upload_date": "2025-07-08T20:19:51.185508",
+    "storage_type": "placeholder"
+  }
+]
